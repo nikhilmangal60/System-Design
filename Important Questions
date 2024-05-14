@@ -21,3 +21,4 @@ How does Java support polymorphism? Provide examples of method overloading and m
 Explain the concept of static keyword in Java. How is it used in variables, methods, and blocks?
 Discuss the principles of object-oriented programming (OOP) and how Java implements them.
 Can you explain the difference between the stack and the heap memory in Java? When are objects stored in each?
+Static Block and Instance Block
