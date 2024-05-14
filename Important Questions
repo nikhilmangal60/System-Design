@@ -1,0 +1,23 @@
+Important Questions-
+
+Java basic 
+Can you explain the JVM internal architecture and how it executes Java bytecode?
+What are the primitive data types in Java, and how are they different from objects?
+Explain the different access modifiers in Java and when to use each one.
+How does memory management work in Java, and what are the different areas of memory in the JVM?
+Describe the process of garbage collection in Java. What are the different types of garbage collectors available?
+What is an enum in Java, and how do you use it? Can you provide an example?
+Define POJO and explain its significance in Java development.
+What are Java annotations, and how are they used in programming?
+Explain the concept of exception handling in Java. What are checked and unchecked exceptions?
+Discuss the various operators available in Java and provide examples of each.
+What are immutable classes in Java? Why are they important, and how do you create them?
+Can you explain the difference between == and .equals() in Java?
+How does Java handle multithreading, and what are the synchronization techniques available?
+What is the difference between HashMap and HashTable in Java?
+Explain the purpose of the finalize() method in Java. When is it called, and why is it discouraged to use it?
+What is the purpose of the transient keyword in Java? Give an example of its usage.
+How does Java support polymorphism? Provide examples of method overloading and method overriding.
+Explain the concept of static keyword in Java. How is it used in variables, methods, and blocks?
+Discuss the principles of object-oriented programming (OOP) and how Java implements them.
+Can you explain the difference between the stack and the heap memory in Java? When are objects stored in each?
